@@ -1,2 +1,2 @@
-# real-time-bidding
-Real time bidding for advertisements using reinforcement learning.
+# rtb-agent
+Real time bidding agent for displaying ads using reinforcement learning.
